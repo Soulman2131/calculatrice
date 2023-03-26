@@ -1,4 +1,14 @@
 /***/
+body {
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+	background: linear-gradient(to left, rgba(211, 211, 211, 0.801), rgba(128, 128, 128, 0.801));
+}
+h1 {
+	font-size: 45px;
+	text-align: center;
+	border: 1px solid #e3e3e3;
+	box-shadow: 0 2px 12px #e3e3e3;
+}
 
 .calculatrice {
 	width: 320px;
